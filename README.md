@@ -1,2 +1,2 @@
 # iShow
-Display a popupwindow
+Display a popupwindow, made by MJØD.
